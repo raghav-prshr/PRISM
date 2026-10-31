@@ -1,0 +1,1 @@
+// PerformanceChart.tsx: implementation pending

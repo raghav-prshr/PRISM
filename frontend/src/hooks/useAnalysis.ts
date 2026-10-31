@@ -1,0 +1,1 @@
+// useAnalysis.ts: implementation pending

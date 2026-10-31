@@ -1,0 +1,1 @@
+// InsightCard.tsx: implementation pending
